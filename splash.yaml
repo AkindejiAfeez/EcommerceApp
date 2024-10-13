@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets/logo/poshworld_new-Logo.png
+  image_dark: assets/logo/poshworld_new-Logo.png
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: assets/logo/poshworld_new-Logo.png
+    image_dark: assets/logo/poshworld_new-Logo.png
+
+  web: true
